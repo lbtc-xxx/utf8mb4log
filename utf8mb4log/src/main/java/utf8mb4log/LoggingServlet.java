@@ -17,6 +17,6 @@ public class LoggingServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		log.info("𥹖𥹖𥹖");
+		log.info("ÀÀÀあああ𥹖𥹖𥹖");
 	}
 }
